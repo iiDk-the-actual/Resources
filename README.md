@@ -1,4 +1,4 @@
 # Resources
 Resources for my scripts
 
-# hehehe balls
+# get off of my repository
